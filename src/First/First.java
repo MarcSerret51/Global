@@ -7,7 +7,7 @@ package First;
 
 /**
  *
- * @author javi
+ * @author marc
  */
 public class First {
     
